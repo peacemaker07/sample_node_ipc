@@ -1,0 +1,15 @@
+{
+  "name": "sample_node_ipc",
+  "version": "0.0.1",
+  "description": "",
+  "main": "hello-client.js",
+  "dependencies": {
+    "node-ipc": "^9.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
